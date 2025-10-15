@@ -5,7 +5,7 @@ date: 2025-10-15
 categories: reflection time-awareness
 ---
 
-![Time vs Us](./images/tortoise_rabbit.png)
+![Time vs Us](/images/tortoise_rabbit.png)
 
 Have you ever felt like time is slipping away faster than it used to? I’ve been feeling this for years. Earlier, I used to think time was *running*. But after Covid, it began to feel like time was *flying*.  
 
