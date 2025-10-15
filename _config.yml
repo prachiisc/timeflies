@@ -3,3 +3,5 @@ author: "Prachi Singh"
 description: "A reflection on attention, time, and awareness."
 theme: minima
 show_excerpts: true
+url: "https://prachiisc.github.io/timeflies"
+baseurl: "/timeflies"
