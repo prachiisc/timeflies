@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Older friends interacting with a young girl in nature</title>
+  <desc id="desc">A warm illustrated scene of a young girl sharing a moment with a group of older people beside a lake, surrounded by trees and hills.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9bd8ef"/>
+      <stop offset="1" stop-color="#e8f4dc"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6fb8bd"/>
+      <stop offset="1" stop-color="#b9ded0"/>
+    </linearGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#83bd69"/>
+      <stop offset="1" stop-color="#417d4b"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dy="8"/>
+      <feComponentTransfer><feFuncA type="linear" slope=".2"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="970" cy="130" r="62" fill="#ffe9a6" opacity=".9"/>
+  <path d="M0 385 Q170 240 330 370 T650 350 T940 325 T1200 370 V520 H0Z" fill="#739d70"/>
+  <path d="M0 430 Q170 300 360 420 T690 390 T990 400 T1200 420 V545 H0Z" fill="#527f63"/>
+  <path d="M0 475 Q200 415 400 470 T800 455 T1200 465 V650 H0Z" fill="url(#water)"/>
+  <path d="M0 510 Q210 475 430 515 T820 505 T1200 520" fill="none" stroke="#d9efe2" stroke-width="9" opacity=".65"/>
+
+  <!-- distant trees -->
+  <g fill="#356f4b">
+    <path d="M75 435 l55-150 55 150z M102 335 l28-105 28 105z"/>
+    <path d="M1030 435 l70-190 70 190z M1065 310 l35-125 35 125z"/>
+    <path d="M1135 445 l40-135 40 135z"/>
+  </g>
+
+  <!-- foreground meadow -->
+  <path d="M0 535 Q230 490 450 560 T850 535 T1200 555 V800 H0Z" fill="url(#grass)"/>
+  <g stroke="#d8ed9d" stroke-width="5" stroke-linecap="round" opacity=".8">
+    <path d="M70 750 l-8-42 M80 750 l18-35 M180 700 l-7-38 M190 700 l20-28 M1030 730 l-9-40 M1040 730 l20-33 M1120 660 l-6-35 M1130 660 l18-25"/>
+  </g>
+
+  <!-- large tree -->
+  <path d="M150 570 Q170 405 245 300 Q285 245 315 190" fill="none" stroke="#68472f" stroke-width="34" stroke-linecap="round"/>
+  <path d="M240 340 Q190 280 125 245 M270 305 Q350 240 390 170" fill="none" stroke="#68472f" stroke-width="21" stroke-linecap="round"/>
+  <g fill="#4d9859">
+    <circle cx="125" cy="220" r="88"/><circle cx="235" cy="195" r="105"/><circle cx="355" cy="180" r="93"/><circle cx="300" cy=" ninety" r="82"/><circle cx="95" cy="315" r="75"/>
+  </g>
+  <g fill="#78bd67" opacity=".75"><circle cx="190" cy="150" r="45"/><circle cx="330" cy="135" r="50"/><circle cx="92" cy="245" r="36"/></g>
+
+  <!-- picnic blanket -->
+  <path d="M385 692 Q610 650 835 690 L785 770 Q585 735 415 770Z" fill="#d96d61" opacity=".9"/>
+  <path d="M430 700 l340 40 M500 675 l-25 80 M610 665 l-8 85 M720 680 l-5 75" stroke="#f5c184" stroke-width="8" opacity=".8"/>
+
+  <!-- older woman left -->
+  <g filter="url(#softShadow)">
+    <circle cx="380" cy="492" r="38" fill="#d99b78"/>
+    <path d="M343 488 Q345 435 390 432 Q423 441 420 480 Q390 462 343 488Z" fill="#d9d7d0"/>
+    <circle cx="365" cy="493" r="5" fill="#3d342f"/><circle cx="397" cy="493" r="5" fill="#3d342f"/>
+    <path d="M365 515 Q382 526 399 515" fill="none" stroke="#874f46" stroke-width="4"/>
+    <path d="M338 535 Q380 513 423 535 L450 675 Q380 704 315 675Z" fill="#9c75b8"/>
+    <path d="M335 548 Q295 575 270 626" fill="none" stroke="#d99b78" stroke-width="18" stroke-linecap="round"/>
+    <path d="M420 548 Q455 570 477 605" fill="none" stroke="#d99b78" stroke-width="18" stroke-linecap="round"/>
+    <path d="M350 675 l-12 58 M405 675 l15 58" stroke="#4b596e" stroke-width="20" stroke-linecap="round"/>
+  </g>
+
+  <!-- older man behind -->
+  <g filter="url(#softShadow)">
+    <circle cx="585" cy="430" r="40" fill="#c88668"/>
+    <path d="M545 428 Q553 376 592 376 Q627 382 631 427 Q600 410 545 428Z" fill="#f0eee6"/>
+    <path d="M565 450 Q585 461 607 450" fill="none" stroke="#70443c" stroke-width="4"/>
+    <rect x="546" y="478" width="82" height="143" rx="28" fill="#4d82a8"/>
+    <path d="M555 500 Q515 535 490 585" fill="none" stroke="#c88668" stroke-width="18" stroke-linecap="round"/>
+    <path d="M620 500 Q654 530 675 573" fill="none" stroke="#c88668" stroke-width="18" stroke-linecap="round"/>
+    <path d="M565 610 l-12 75 M611 610 l15 75" stroke="#554b59" stroke-width="21" stroke-linecap="round"/>
+  </g>
+
+  <!-- older woman right -->
+  <g filter="url(#softShadow)">
+    <circle cx="825" cy="475" r="38" fill="#b97861"/>
+    <path d="M788 474 Q788 425 830 420 Q865 432 864 477 Q832 456 788 474Z" fill="#aebbc2"/>
+    <path d="M810 497 Q826 507 843 497" fill="none" stroke="#70443c" stroke-width="4"/>
+    <path d="M785 525 Q825 507 867 525 L900 676 Q826 704 756 676Z" fill="#e58a6d"/>
+    <path d="M790 540 Q750 570 720 614" fill="none" stroke="#b97861" stroke-width="18" stroke-linecap="round"/>
+    <path d="M865 540 Q905 560 935 605" fill="none" stroke="#b97861" stroke-width="18" stroke-linecap="round"/>
+    <path d="M800 676 l-8 58 M855 676 l13 58" stroke="#596d62" stroke-width="20" stroke-linecap="round"/>
+  </g>
+
+  <!-- young girl in center -->
+  <g filter="url(#softShadow)">
+    <circle cx="625" cy="535" r="34" fill="#d89a78"/>
+    <path d="M590 535 Q585 480 625 472 Q665 481 662 535 Q643 515 590 535Z" fill="#5b382e"/>
+    <path d="M607 547 Q625 557 643 547" fill="none" stroke="#874f46" stroke-width="4"/>
+    <path d="M598 572 Q625 555 652 572 L675 700 Q625 724 575 700Z" fill="#f2c94c"/>
+    <path d="M600 584 Q558 610 525 645" fill="none" stroke="#d89a78" stroke-width="15" stroke-linecap="round"/>
+    <path d="M650 584 Q686 603 720 614" fill="none" stroke="#d89a78" stroke-width="15" stroke-linecap="round"/>
+    <path d="M605 700 l-5 55 M645 700 l8 55" stroke="#e8e4d5" stroke-width="18" stroke-linecap="round"/>
+    <path d="M590 755 h28 M642 755 h28" stroke="#75543f" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <!-- shared flower / gesture -->
+  <path d="M720 614 Q690 590 666 570" fill="none" stroke="#3f814c" stroke-width="6"/>
+  <circle cx="725" cy="618" r="13" fill="#f7c95c"/><circle cx="725" cy="597" r="13" fill="#f28e9c"/><circle cx="744" cy="609" r="13" fill="#f28e9c"/><circle cx="706" cy="609" r="13" fill="#f28e9c"/>
+  <circle cx="725" cy="609" r="7" fill="#f6e7a5"/>
+
+  <!-- birds -->
+  <path d="M900 230 q18-18 36 0 q18-18 36 0 M750 170 q14-14 28 0 q14-14 28 0" fill="none" stroke="#3e6d63" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="600" y="785" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#eff7d9" opacity=".9">Every generation has something beautiful to share.</text>
+</svg>
