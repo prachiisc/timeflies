@@ -5,7 +5,8 @@ date: 2026-10-18
 categories: reflections life
 ---
 
-!({{ site.baseurl }}/images/castle.png)
+![]({{ site.baseurl }}/images/castle.png)
+
 It was around 8 in the morning. I was looking at the church through my window while sipping my coffee. It was a bright, sunny day, but I had a long to-do list ahead of me. I was working towards a fast-approaching deadline, and there was so much to get done.
 
 Then I decided to check my WhatsApp messages and reply to the ones I had been putting off. One particular message caught my attention. It was about a trip for expats. Out of curiosity, I clicked on it.
