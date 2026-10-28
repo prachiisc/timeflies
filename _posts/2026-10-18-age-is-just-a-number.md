@@ -30,7 +30,10 @@ As we slowly started bonding, something dawned on me. I had lost my grandfather 
 Before I go any further, let me tell you a little about my grandfather.
 
 ## My Grandfather & My Childhood Memories
-![The image is for representation purpose only]({{ site.baseurl }}/images/rangoli.jpg)
+<figure>
+  <img src="{{ site.baseurl }}/images/rangoli.jpg" alt="Rangoli design">
+  <figcaption>The image is for representation purpose only.</figcaption>
+</figure>
 
 My grandfather was a quiet and kind person. He loved gardening and had a garden full of fruits and vegetables. He was an English teacher at a nearby government school.
 
