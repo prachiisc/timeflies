@@ -7,7 +7,7 @@ categories: reflections life
 
 ![]({{ site.baseurl }}/images/castle.png)
 
-June 07, 2026, it was around 8 in the morning in Brno, Czech Republic. I was looking at the church through my house window while sipping my coffee. It was a bright, sunny "Sunday", but I had a long to-do list ahead of me. I was working towards a fast-approaching deadline, and there was so much to get done. Then I decided to check my WhatsApp messages and reply to the ones I had been putting off. One particular message caught my attention. It was about a trip for expats. Out of curiosity, I clicked on it.
+It was June 7, 2026, around 8 in the morning in Brno, Czech Republic. I was gazing at the church through my window while sipping my coffee. It was a bright, sunny Sunday, but I had a long to-do list ahead of me. I was working towards a fast-approaching deadline, and there was so much to get done. Then I decided to check my WhatsApp messages and reply to the ones I had been putting off. One particular message caught my attention. It was about a trip for expats. Out of curiosity, I clicked on it.
 
 It was a trip to the historical _Veveří Castle_, including a boat ride and some hiking. What really caught my attention was the **boat ride**. The castle is one of the largest and oldest castles not only in Moravia but also in the entire Czech Republic. I had always wanted to visit it by ferry through the Brno Reservoir.
 
