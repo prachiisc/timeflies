@@ -33,8 +33,8 @@ Before I go any further, let me tell you a little about my grandfather.
 
 ## My Grandfather & My Childhood Memories
 <figure>
-  <img src="{{ site.baseurl }}/images/rangoli.jpg" alt="Rangoli design">
-  <figcaption>Rangoli in a courtyard. The image is for representation purpose only.</figcaption>
+  <img src="{{ site.baseurl }}/images/Elderly Gardener in a Sunlit Courtyard.png" alt="gardening">
+  <!-- <figcaption>Rangoli in a courtyard. The image is for representation purpose only.</figcaption> -->
 </figure>
 
 My grandfather was a quiet and kind person. He loved gardening and had a garden full of fruits and vegetables. He was an English teacher at a nearby government school.
@@ -42,10 +42,16 @@ My grandfather was a quiet and kind person. He loved gardening and had a garden 
 During my summer holidays, I would stay at his old, enormous villa with a big courtyard. He used to teach me English there.
 He also practised yoga and read the *Bhagavad Gita*. At the end of his yoga session, he would lie down for *Shavasana*, which was supposed to be five minutes of relaxation. But somehow, those five minutes would turn into a deep sleep lasting an hour! 
 
-He always pampered me. And he was never shy about admitting it, whether to me or to anyone else. That was one of the things that made him so special to me. I remember one Diwali when I made a rangoli in the courtyard. A rangoli is a colourful design made using coloured powders. My grandfather was so proud and happy that he refused to let anyone clean it for ten whole days! Eventually, it became a complete mess, covered with dirt and scattered by the wind.
-But he didn't care. Whenever anyone visited our house, he would proudly say, *"See how beautiful it is! My granddaughter made it!"* I never told him how happy that made me feel.Sometimes, adults say or do things without realising how deeply they can influence a child's life. Even today, that memory brings a smile to my face.
+He always pampered me. And he was never shy about admitting it, whether to me or to anyone else. That was one of the things that made him so special to me. I remember one Diwali when I made a rangoli in the courtyard. A rangoli is a colourful design made using coloured powders. 
 
-As I grew older, I became busy with my studies, and my visits to his home became less frequent. Then, one fine day, we learned that he had pancreatic cancer. Everyone was devastated. He was someone who hardly ate anything other than lauki (bottle gourd), which I hated then and still don't particularly like now, spinach, and fruits. Junk food was practically a crime in his eyes! I am not discouraging anyone from eating healthy food. But life is unfair sometimes, and we have to learn to live with that reality. A few months later, he passed away. Thankfully, he did not suffer too much. But even today, I regret not seeing him one last time. I wasn't brave enough to see someone I loved so dearly in his final moments. I wasn't mature enough to understand what death really meant. It was the first time I had lost someone so close to me.
+<figure>
+  <img src="{{ site.baseurl }}/images/Elders and Children Creating Rangoli.png" alt="rangoli design">
+</figure>
+My grandfather was so proud and happy that he refused to let anyone clean it for ten whole days!  Whenever anyone visited our house, he would proudly say, *"See how beautiful it is! My granddaughter made it!"* 
+
+Eventually, it became a complete mess, covered with dirt and scattered by the wind. But he didn't care. I never told him how happy that made me feel.Sometimes, adults say or do things without realising how deeply they can influence a child's life. Even today, that memory brings a smile to my face.
+
+As I grew older, I became busy with my studies, and my visits to his home became less frequent. Then, one fine day, we learned that he had pancreatic cancer. Everyone was devastated. He was someone who hardly ate anything other than lauki (bottle gourd), spinach, and fruits. Junk food was practically a crime in his eyes! I am not discouraging anyone from eating healthy food. But life is unfair sometimes, and we have to learn to live with that reality. A few months later, he passed away. Thankfully, he did not suffer too much. But even today, I regret not seeing him one last time. I wasn't brave enough to see someone I loved so dearly in his final moments. It was the first time I had lost someone so close to me.
 
 Perhaps he is there somewhere, watching me and feeling proud!
 
