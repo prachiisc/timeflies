@@ -51,7 +51,7 @@ My grandfather was so proud and happy that he refused to let anyone clean it for
 
 Eventually, it became a complete mess, covered with dirt and scattered by the wind. But he didn't care. I never told him how happy that made me feel.Sometimes, adults say or do things without realising how deeply they can influence a child's life. Even today, that memory brings a smile to my face.
 
-As I grew older, I became busy with my studies, and my visits to his home became less frequent. Then, one fine day, we learned that he had pancreatic cancer. Everyone was devastated. He was someone who hardly ate anything other than lauki (bottle gourd), spinach, and fruits. Junk food was practically a crime in his eyes! I am not discouraging anyone from eating healthy food. But life is unfair sometimes, and we have to learn to live with that reality. A few months later, he passed away. Thankfully, he did not suffer too much. But even today, I regret not seeing him one last time. I wasn't brave enough to see someone I loved so dearly in his final moments. It was the first time I had lost someone so close to me.
+As I grew older, I became busy with my studies, and my visits to his home became less frequent. Then, one fine day, we learned that he had pancreatic cancer. Everyone was devastated. He was someone who hardly ate anything other than lauki (bottle gourd), spinach, and fruits. Junk food was practically a crime in his eyes! I am not discouraging anyone from eating healthy food. But life is unfair sometimes, and we have to learn to live with that reality. A few months later, he passed away. Thankfully, he did not suffer too much. But even today, I regret not seeing him one last time. It was the first time I had lost someone so close to me.
 
 Perhaps he is there somewhere, watching me and feeling proud!
 
@@ -74,12 +74,10 @@ But a spontaneous decision took me on a journey I hadn't planned for — one tha
 
 I went looking for a boat ride to a castle. I returned with something much more precious: a memory, a connection, and a gentle reminder that curiosity has no age limit.
 
-We often measure our days by how much we accomplish. We worry about deadlines, plans, and all the things we haven't finished yet. But sometimes, the most memorable moments are the ones that were never on our to-do lists. And sometimes, a complete stranger can make us feel closer to someone we have lost.
+We often measure our days by how much we accomplish. We worry about deadlines, plans, and all the things we haven't finished yet. But sometimes, the most memorable moments are the ones that were never on our to-do lists. And sometimes, a complete stranger can make us feel more connected.
 
 As the saying goes:
 
 *"People may not remember who you are or what you did, but they will remember how you made them feel."*
-
-That Sunday, an elderly stranger made me feel something I hadn't felt in a long time. For a little while, I felt I had my grandfather back.
 
 **Thank you for your attention!**
