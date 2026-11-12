@@ -5,3 +5,5 @@ theme: minima
 show_excerpts: true
 url: "https://prachiisc.github.io/"
 baseurl: "/timeflies"
+disqus:
+  shortname: reflections-3
